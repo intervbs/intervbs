@@ -7,7 +7,5 @@
 # 📊 GitHub Stats:
 <div style="display: inline-block;">
   <img src="https://github-readme-stats.vercel.app/api?username=Intervbs&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="400" height="200">
-</div>
-<div style="display: inline-block;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Intervbs&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="400" height="200">
 </div>
